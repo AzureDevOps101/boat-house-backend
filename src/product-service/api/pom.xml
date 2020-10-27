@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <repositories>
         <repository>
+        <!--
 			<id>huaweicloud</id>
 			<name>huawei</name>
 			<url>https://repo.huaweicloud.com/repository/maven/</url>
-
-		
+-->
 			
             <layout>default</layout>
             <releases>
